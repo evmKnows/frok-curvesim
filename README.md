@@ -12,7 +12,8 @@ Curvesim simulates Curve pools with optimal arbitrageurs trading against them to
 
 Users can re-use simulation components to simulate custom strategies and generate custom metrics.  Pool objects enable simpler integration with Curve pools for both manual and automated analytics usage.
 
-# Forked from https://github.com/curveresearch/curvesim
+## Forked from https://github.com/curveresearch/curvesim
+## Shoutout to @nagakingg for helping tuning the params.
 
 # Curve v2 Pool Parameter Selection for frok.ai
 
@@ -41,13 +42,13 @@ The simulation results for each asset can be found in the following files:
 The simulation results for each asset can be found in the following files:
 
 - ## [AIOZ Results](results/html/aioz_summary_grids.html)
-  ![AIOZ Results](frok-curvesim/results/images/aioz-results.png)
+  ![AIOZ Results](frok-sims/results/images/aioz-results.png)
 
 - ## [FET Results](results/html/fet_summary_grids.html)
-  ![FET Results](frok-curvesim/results/images/fet-results.png)
+  ![FET Results](frok-sims/results/images/fet-results.png)
 
 - ## [PEPE Results](results/html/pepe_summary_grids.html)
-  ![PEPE Results](frok-curvesim/results/images/pepe-results.png)
+  ![PEPE Results](frok-sims/results/images/pepe-results.png)
 
 Across all three assets, we observed fairly consistent optimal parameters:
 
