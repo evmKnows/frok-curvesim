@@ -39,8 +39,6 @@ For each asset, we ran simulations across a range of values for these parameters
 
 The simulation results for each asset can be found in the following files:
 
-The simulation results for each asset can be found in the following files:
-
 - ## [AIOZ Results](results/html/aioz_summary_grids.html)
   ![AIOZ Results](frok-sims/results/images/aioz-results.png)
 
