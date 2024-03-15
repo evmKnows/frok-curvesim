@@ -12,8 +12,8 @@ Curvesim simulates Curve pools with optimal arbitrageurs trading against them to
 
 Users can re-use simulation components to simulate custom strategies and generate custom metrics.  Pool objects enable simpler integration with Curve pools for both manual and automated analytics usage.
 
-## Forked from https://github.com/curveresearch/curvesim
-## Shoutout to @nagakingg for helping tuning the params.
+##ä Forked from https://github.com/curveresearch/curvesim
+### Shoutout to [@nagakingg](https://github.com/nagakingg) for helping us on the parameters
 
 # Curve v2 Pool Parameter Selection for frok.ai
 
