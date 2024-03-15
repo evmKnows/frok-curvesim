@@ -41,13 +41,13 @@ The simulation results for each asset can be found in the following files:
 The simulation results for each asset can be found in the following files:
 
 - ## [AIOZ Results](results/html/aioz_summary_grids.html)
-  ![AIOZ Results](results/images/aioz-results.png)
+  ![AIOZ Results](frok-curvesim/results/images/aioz-results.png)
 
 - ## [FET Results](results/html/fet_summary_grids.html)
-  ![FET Results](results/images/fet-results.png)
+  ![FET Results](frok-curvesim/results/images/fet-results.png)
 
 - ## [PEPE Results](results/html/pepe_summary_grids.html)
-  ![PEPE Results](results/images/pepe-results.png)
+  ![PEPE Results](frok-curvesim/results/images/pepe-results.png)
 
 Across all three assets, we observed fairly consistent optimal parameters:
 
